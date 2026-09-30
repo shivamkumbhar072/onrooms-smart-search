@@ -4,8 +4,8 @@ import Results from "./Results";
 import Features from "./Features";
 import HowItWorks from "./HowItWorks";
 
-
-const API_URL = "https://onrooms-smart-search.vercel.app"
+const API_URL = "http://127.0.0.1:8000";
+// const API_URL = "https://onrooms-smart-search.vercel.app"
 
 function Hero() {
   const [query, setQuery] = useState("");
