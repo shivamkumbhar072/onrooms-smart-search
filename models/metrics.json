@@ -1,0 +1,23 @@
+{
+  "best": "LinearRegression (baseline)",
+  "results": {
+    "LinearRegression (baseline)": {
+      "MAE": 480.9,
+      "RMSE": 586.5,
+      "R2": 0.916,
+      "CV_R2": 0.885
+    },
+    "RandomForest": {
+      "MAE": 581.4,
+      "RMSE": 718.2,
+      "R2": 0.874,
+      "CV_R2": 0.799
+    },
+    "GradientBoosting": {
+      "MAE": 539.9,
+      "RMSE": 673.6,
+      "R2": 0.89,
+      "CV_R2": 0.854
+    }
+  }
+}

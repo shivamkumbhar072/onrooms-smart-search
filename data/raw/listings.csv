@@ -1,0 +1,601 @@
+id,title,area,lat,lng,gender,occupancy,wifi,food,laundry,ac,parking,power_backup,attached_bath,distance_to_college_km,deposit,price
+1,Female PG Pimpri #1,Pimpri,18.62843,73.80992,Female,Double,1,1,0,0,0,1,0,2.76,14600,7300
+2,Female PG Hinjewadi #2,Hinjewadi,18.59546,73.74182,Female,Double,1,0,0,0,0,0,0,1.19,11850,7900
+3,Female PG Hinjewadi #3,Hinjewadi,18.59715,73.74325,Female,Double,0,1,1,0,1,1,0,0.71,9700,9700
+4,Male PG Viman Nagar #4,Viman Nagar,18.56414,73.90919,Male,Triple,1,0,1,1,1,0,0,0.45,19400,9700
+5,Female PG Pimpri #5,Pimpri,18.63476,73.79937,Female,Single,1,1,0,0,0,1,1,1.28,9900,9900
+6,Male PG Hadapsar #6,Hadapsar,18.506,73.92295,Male,Double,1,1,0,0,0,0,0,2.25,13800,6900
+7,Male PG Viman Nagar #7,Viman Nagar,18.55732,73.90632,Male,Double,1,1,0,0,0,1,0,0.72,18000,9000
+8,Male PG Akurdi #8,Akurdi,18.65108,73.773,Male,Double,0,0,0,0,1,1,0,2.71,9200,4600
+9,Female PG Hinjewadi #9,Hinjewadi,18.59788,73.74175,Female,Triple,1,1,0,0,0,1,0,1.96,8300,8300
+10,Male PG Kothrud #10,Kothrud,18.52337,73.83101,Male,Double,0,1,1,0,1,0,0,2.08,9600,9600
+11,Male PG Wakad #11,Wakad,18.5854,73.75611,Male,Double,1,1,0,0,1,0,0,1.51,15800,7900
+12,Female PG Pimpri #12,Pimpri,18.62068,73.80835,Female,Double,1,1,0,1,1,1,1,0.71,10000,10000
+13,Male PG Kothrud #13,Kothrud,18.50969,73.81815,Male,Double,0,1,1,0,0,0,0,1.89,8900,8900
+14,Male PG Pimpri #14,Pimpri,18.63959,73.79204,Male,Double,1,0,1,0,1,1,0,1.48,13600,6800
+15,Unisex PG Akurdi #15,Akurdi,18.63785,73.76407,Unisex,Triple,1,1,1,1,1,0,1,1.64,7200,7200
+16,Female PG Viman Nagar #16,Viman Nagar,18.56233,73.91251,Female,Triple,1,1,0,0,1,1,0,3.3,16200,8100
+17,Male PG Hinjewadi #17,Hinjewadi,18.60085,73.73307,Male,Double,1,1,0,0,0,0,0,0.99,13500,9000
+18,Female PG Akurdi #18,Akurdi,18.66463,73.7608,Female,Double,1,0,0,0,0,1,0,0.81,10600,5300
+19,Male PG Hadapsar #19,Hadapsar,18.50783,73.915,Male,Triple,1,1,1,0,1,1,0,2.22,13000,6500
+20,Male PG Hinjewadi #20,Hinjewadi,18.59042,73.75565,Male,Single,1,1,0,0,1,1,0,0.83,11900,11900
+21,Male PG Kothrud #21,Kothrud,18.49852,73.80393,Male,Double,1,1,1,0,1,0,1,2.81,14850,9900
+22,Female PG Hinjewadi #22,Hinjewadi,18.57715,73.74152,Female,Double,1,1,0,0,0,1,0,2.06,17000,8500
+23,Male PG Hinjewadi #23,Hinjewadi,18.60515,73.74241,Male,Double,1,1,0,0,0,0,0,3.11,8500,8500
+24,Female PG Chinchwad #24,Chinchwad,18.65065,73.78712,Female,Double,1,0,1,0,0,1,0,2.6,14800,7400
+25,Female PG Kothrud #25,Kothrud,18.51227,73.78937,Female,Triple,1,0,0,0,1,1,1,2.07,8600,8600
+26,Female PG Kothrud #26,Kothrud,18.51391,73.81625,Female,Triple,1,1,0,1,1,1,0,2.72,13500,9000
+27,Male PG Kothrud #27,Kothrud,18.50082,73.80932,Male,Triple,1,1,1,1,0,1,1,3.48,18600,9300
+28,Unisex PG Hinjewadi #28,Hinjewadi,18.60168,73.72608,Unisex,Double,1,0,1,0,0,1,0,1.15,13050,8700
+29,Male PG Wakad #29,Wakad,18.59991,73.76608,Male,Double,1,0,0,1,0,0,1,2.25,9900,9900
+30,Male PG Kothrud #30,Kothrud,18.49703,73.79584,Male,Single,1,0,1,0,0,1,1,2.7,20600,10300
+31,Female PG Akurdi #31,Akurdi,18.64834,73.7644,Female,Single,0,0,0,0,1,1,1,1.58,19600,9800
+32,Male PG Wakad #32,Wakad,18.60623,73.75516,Male,Triple,1,0,0,0,1,0,1,1.54,6100,6100
+33,Male PG Viman Nagar #33,Viman Nagar,18.57682,73.91737,Male,Triple,1,0,0,1,0,1,0,2.98,8800,8800
+34,Male PG Wakad #34,Wakad,18.58608,73.74342,Male,Double,1,1,1,0,0,0,0,2.08,11850,7900
+35,Male PG Hinjewadi #35,Hinjewadi,18.59971,73.72976,Male,Single,1,1,0,0,0,0,0,2.44,10700,10700
+36,Female PG Hinjewadi #36,Hinjewadi,18.59988,73.74183,Female,Double,1,0,0,0,0,0,1,0.68,13800,9200
+37,Male PG Pimpri #37,Pimpri,18.60418,73.79655,Male,Double,1,0,1,0,0,1,1,0.84,6600,6600
+38,Male PG Pimpri #38,Pimpri,18.63508,73.81393,Male,Triple,1,0,1,0,1,1,0,2.5,10400,5200
+39,Unisex PG Hadapsar #39,Hadapsar,18.50531,73.92962,Unisex,Triple,1,1,1,1,0,1,0,1.27,11550,7700
+40,Male PG Kothrud #40,Kothrud,18.50903,73.79963,Male,Double,1,1,1,1,0,0,0,1.4,10700,10700
+41,Female PG Kothrud #41,Kothrud,18.50683,73.81037,Female,Double,1,0,0,0,0,1,0,0.21,12450,8300
+42,Male PG Kothrud #42,Kothrud,18.50892,73.79606,Male,Single,1,1,0,0,1,1,1,2.01,17550,11700
+43,Female PG Viman Nagar #43,Viman Nagar,18.56978,73.92719,Female,Double,0,0,0,0,0,1,0,0.29,12900,8600
+44,Female PG Pimpri #44,Pimpri,18.63202,73.79628,Female,Double,1,1,1,1,0,1,0,1.99,15400,7700
+45,Female PG Kothrud #45,Kothrud,18.50095,73.79744,Female,Double,0,0,1,0,1,1,0,0.41,9300,9300
+46,Male PG Wakad #46,Wakad,18.59048,73.7407,Male,Single,1,0,1,0,0,1,0,1.21,23000,11500
+47,Male PG Hinjewadi #47,Hinjewadi,18.60762,73.74028,Male,Triple,1,1,1,0,1,1,1,0.49,13950,9300
+48,Female PG Viman Nagar #48,Viman Nagar,18.5726,73.91686,Female,Single,0,0,0,0,0,1,1,3.7,15900,10600
+49,Male PG Akurdi #49,Akurdi,18.64342,73.75058,Male,Double,1,0,0,0,1,0,1,0.64,10650,7100
+50,Male PG Chinchwad #50,Chinchwad,18.6498,73.80971,Male,Double,1,1,1,0,1,1,0,1.5,11850,7900
+51,Unisex PG Hinjewadi #51,Hinjewadi,18.57319,73.73229,Unisex,Triple,1,1,0,1,0,0,0,1.41,19200,9600
+52,Male PG Akurdi #52,Akurdi,18.65207,73.76933,Male,Double,1,1,1,1,1,1,1,0.53,8800,8800
+53,Male PG Chinchwad #53,Chinchwad,18.65382,73.78145,Male,Single,0,1,0,0,1,1,0,0.47,14400,9600
+54,Male PG Hadapsar #54,Hadapsar,18.51016,73.93222,Male,Double,1,0,1,0,0,1,1,1.47,12000,8000
+55,Female PG Viman Nagar #55,Viman Nagar,18.56075,73.91439,Female,Single,1,1,0,0,1,0,0,2.32,11700,11700
+56,Female PG Chinchwad #56,Chinchwad,18.6499,73.80243,Female,Double,0,1,0,0,0,0,1,2.46,14400,7200
+57,Male PG Kothrud #57,Kothrud,18.51058,73.80818,Male,Single,1,0,0,0,0,1,1,1.94,16200,10800
+58,Male PG Pimpri #58,Pimpri,18.6179,73.80499,Male,Single,0,1,1,0,0,1,0,1.52,18400,9200
+59,Male PG Akurdi #59,Akurdi,18.6564,73.77004,Male,Triple,1,1,0,0,0,1,1,2.16,9750,6500
+60,Female PG Kothrud #60,Kothrud,18.49828,73.80385,Female,Double,1,0,0,0,1,0,1,1.99,18200,9100
+61,Unisex PG Kothrud #61,Kothrud,18.51989,73.79868,Unisex,Triple,1,1,0,0,0,1,0,1.91,8100,8100
+62,Female PG Viman Nagar #62,Viman Nagar,18.57082,73.93973,Female,Triple,1,1,0,1,0,1,0,1.59,20000,10000
+63,Female PG Hinjewadi #63,Hinjewadi,18.59653,73.73104,Female,Double,0,1,1,0,0,1,1,2.21,12000,8000
+64,Female PG Chinchwad #64,Chinchwad,18.6453,73.78456,Female,Triple,1,1,1,0,0,1,1,0.49,7200,7200
+65,Male PG Hadapsar #65,Hadapsar,18.50545,73.90599,Male,Double,1,0,0,0,0,0,1,2.05,8000,8000
+66,Female PG Viman Nagar #66,Viman Nagar,18.56872,73.91312,Female,Double,1,1,1,0,0,0,1,0.54,21400,10700
+67,Male PG Pimpri #67,Pimpri,18.63716,73.81239,Male,Triple,0,1,1,0,1,1,0,0.95,6900,6900
+68,Male PG Hinjewadi #68,Hinjewadi,18.59181,73.73895,Male,Double,1,0,0,0,0,1,0,2.2,11850,7900
+69,Unisex PG Chinchwad #69,Chinchwad,18.6544,73.80201,Unisex,Double,1,1,1,0,1,1,0,2.76,14800,7400
+70,Unisex PG Hinjewadi #70,Hinjewadi,18.60914,73.73888,Unisex,Single,1,0,1,1,0,1,1,3.34,18450,12300
+71,Unisex PG Kothrud #71,Kothrud,18.50655,73.80948,Unisex,Double,1,0,1,0,1,1,0,1.74,17600,8800
+72,Female PG Chinchwad #72,Chinchwad,18.64986,73.78847,Female,Double,1,0,0,0,0,1,1,2.58,13600,6800
+73,Unisex PG Akurdi #73,Akurdi,18.64857,73.77215,Unisex,Triple,1,0,1,0,0,0,0,2.12,10600,5300
+74,Male PG Akurdi #74,Akurdi,18.65914,73.76709,Male,Double,1,1,1,1,0,0,0,2.15,11100,7400
+75,Female PG Hadapsar #75,Hadapsar,18.50598,73.90856,Female,Double,1,1,1,0,0,0,1,2.44,13600,6800
+76,Male PG Kothrud #76,Kothrud,18.51282,73.80006,Male,Double,0,1,0,1,0,0,0,1.03,10800,10800
+77,Female PG Viman Nagar #77,Viman Nagar,18.58746,73.90328,Female,Double,1,1,0,0,0,0,0,1.46,14400,9600
+78,Male PG Kothrud #78,Kothrud,18.51104,73.81926,Male,Double,1,1,1,1,0,0,1,1.63,10600,10600
+79,Male PG Chinchwad #79,Chinchwad,18.64359,73.80316,Male,Triple,1,0,1,1,0,0,0,3.42,6400,6400
+80,Female PG Chinchwad #80,Chinchwad,18.65461,73.81233,Female,Triple,1,0,1,0,0,1,0,1.92,4900,4900
+81,Male PG Kothrud #81,Kothrud,18.51412,73.8196,Male,Triple,1,1,1,0,0,0,0,0.75,18000,9000
+82,Female PG Kothrud #82,Kothrud,18.50551,73.80623,Female,Double,1,0,1,1,0,1,1,1.7,20600,10300
+83,Male PG Akurdi #83,Akurdi,18.6479,73.77039,Male,Triple,1,0,0,0,0,1,1,3.25,7350,4900
+84,Male PG Hinjewadi #84,Hinjewadi,18.5989,73.74108,Male,Double,1,1,0,1,1,1,1,2.94,21600,10800
+85,Male PG Hadapsar #85,Hadapsar,18.50201,73.94566,Male,Double,0,0,0,1,1,0,1,0.51,12750,8500
+86,Male PG Akurdi #86,Akurdi,18.65094,73.76054,Male,Single,1,1,1,0,0,0,0,1.88,18800,9400
+87,Male PG Wakad #87,Wakad,18.6048,73.77547,Male,Double,1,1,0,0,1,0,0,2.91,12000,8000
+88,Female PG Wakad #88,Wakad,18.59176,73.77825,Female,Single,1,1,1,0,1,1,0,0.89,16800,11200
+89,Male PG Akurdi #89,Akurdi,18.65792,73.77439,Male,Double,0,0,1,1,1,0,1,3.29,7700,7700
+90,Male PG Chinchwad #90,Chinchwad,18.63846,73.79991,Male,Single,1,0,0,0,1,0,0,1.8,18000,9000
+91,Male PG Kothrud #91,Kothrud,18.49492,73.81544,Male,Single,0,1,1,0,0,0,0,0.87,11600,11600
+92,Female PG Hadapsar #92,Hadapsar,18.50532,73.9256,Female,Double,1,1,1,0,1,1,0,1.82,12750,8500
+93,Unisex PG Hinjewadi #93,Hinjewadi,18.60416,73.74181,Unisex,Triple,1,0,1,0,0,0,0,1.73,6800,6800
+94,Female PG Pimpri #94,Pimpri,18.62439,73.79774,Female,Triple,1,1,1,0,1,0,1,2.69,6600,6600
+95,Unisex PG Chinchwad #95,Chinchwad,18.64279,73.77985,Unisex,Double,0,0,1,0,0,1,1,2.44,10650,7100
+96,Male PG Kothrud #96,Kothrud,18.49552,73.81722,Male,Double,1,1,0,0,1,1,0,1.46,14400,9600
+97,Male PG Hinjewadi #97,Hinjewadi,18.59821,73.74106,Male,Double,1,1,1,0,1,1,1,0.95,9300,9300
+98,Male PG Chinchwad #98,Chinchwad,18.64741,73.79384,Male,Triple,1,0,0,0,0,1,0,0.46,13600,6800
+99,Male PG Hinjewadi #99,Hinjewadi,18.58917,73.73588,Male,Triple,0,0,1,1,0,1,0,1.09,8400,8400
+100,Male PG Hadapsar #100,Hadapsar,18.49606,73.92581,Male,Triple,1,1,0,1,0,0,0,2.69,7700,7700
+101,Female PG Hadapsar #101,Hadapsar,18.50021,73.92869,Female,Double,0,0,0,0,0,1,1,1.81,15800,7900
+102,Female PG Kothrud #102,Kothrud,18.50481,73.80607,Female,Triple,1,1,1,0,1,1,0,0.39,14100,9400
+103,Female PG Hadapsar #103,Hadapsar,18.50208,73.94383,Female,Single,0,1,0,1,0,0,0,3.21,11600,11600
+104,Male PG Wakad #104,Wakad,18.60476,73.75783,Male,Triple,1,1,1,0,0,0,0,2.81,11100,7400
+105,Male PG Viman Nagar #105,Viman Nagar,18.57941,73.91315,Male,Single,1,1,1,0,0,1,0,2.13,11400,11400
+106,Male PG Hinjewadi #106,Hinjewadi,18.59193,73.75318,Male,Triple,0,1,1,0,0,0,0,1.56,8900,8900
+107,Unisex PG Wakad #107,Wakad,18.6078,73.75989,Unisex,Double,1,1,0,0,0,1,1,0.82,13800,9200
+108,Male PG Pimpri #108,Pimpri,18.62142,73.80792,Male,Triple,1,0,1,1,1,1,0,2.1,15200,7600
+109,Male PG Viman Nagar #109,Viman Nagar,18.55845,73.90977,Male,Single,1,1,0,0,1,1,0,0.32,19500,13000
+110,Male PG Akurdi #110,Akurdi,18.63162,73.75764,Male,Double,1,1,1,0,1,1,1,2.36,7900,7900
+111,Male PG Hinjewadi #111,Hinjewadi,18.58984,73.72182,Male,Triple,1,0,0,0,0,0,0,2.99,14400,7200
+112,Female PG Wakad #112,Wakad,18.60552,73.7619,Female,Double,1,0,1,1,0,0,0,3.52,13200,8800
+113,Unisex PG Kothrud #113,Kothrud,18.50237,73.80187,Unisex,Double,1,1,1,1,1,1,0,1.26,10400,10400
+114,Male PG Kothrud #114,Kothrud,18.4947,73.8079,Male,Triple,0,1,0,0,1,1,0,1.89,8200,8200
+115,Male PG Viman Nagar #115,Viman Nagar,18.56228,73.91335,Male,Triple,1,1,1,0,0,1,1,1.52,19200,9600
+116,Male PG Akurdi #116,Akurdi,18.64951,73.78372,Male,Double,1,1,1,0,0,0,0,2.24,13600,6800
+117,Male PG Hadapsar #117,Hadapsar,18.50688,73.92566,Male,Triple,1,1,1,0,1,0,0,1.24,14000,7000
+118,Male PG Akurdi #118,Akurdi,18.65666,73.75235,Male,Triple,1,0,1,1,1,0,0,3.11,6400,6400
+119,Female PG Pimpri #119,Pimpri,18.62627,73.78913,Female,Single,1,0,0,1,0,0,0,2.87,10000,10000
+120,Male PG Pimpri #120,Pimpri,18.63219,73.79781,Male,Triple,1,1,0,0,0,1,0,1.09,13600,6800
+121,Female PG Akurdi #121,Akurdi,18.64939,73.77112,Female,Single,0,0,0,0,0,0,0,3.13,10950,7300
+122,Male PG Pimpri #122,Pimpri,18.61589,73.7927,Male,Triple,0,0,1,0,1,0,0,0.83,5400,5400
+123,Male PG Akurdi #123,Akurdi,18.64334,73.76111,Male,Double,1,0,1,0,0,1,0,1.51,8250,5500
+124,Male PG Hinjewadi #124,Hinjewadi,18.59328,73.7471,Male,Triple,1,1,0,0,0,0,0,3.98,9900,6600
+125,Male PG Pimpri #125,Pimpri,18.61672,73.7956,Male,Triple,1,1,0,0,0,1,1,0.31,14800,7400
+126,Male PG Pimpri #126,Pimpri,18.63522,73.78995,Male,Single,1,1,0,0,0,0,0,0.43,18800,9400
+127,Male PG Pimpri #127,Pimpri,18.63504,73.7947,Male,Triple,1,1,0,0,0,0,1,2.08,5800,5800
+128,Female PG Kothrud #128,Kothrud,18.49894,73.79928,Female,Double,1,1,0,0,0,1,0,0.77,17800,8900
+129,Male PG Pimpri #129,Pimpri,18.63028,73.79013,Male,Single,1,0,1,0,0,0,0,3.75,13950,9300
+130,Female PG Hadapsar #130,Hadapsar,18.51702,73.91273,Female,Double,1,1,1,0,0,1,0,0.61,12450,8300
+131,Female PG Hinjewadi #131,Hinjewadi,18.58792,73.73964,Female,Double,1,1,0,1,0,1,0,2.23,10000,10000
+132,Female PG Chinchwad #132,Chinchwad,18.65226,73.80357,Female,Triple,1,0,0,1,1,1,1,1.15,7800,7800
+133,Unisex PG Akurdi #133,Akurdi,18.64806,73.76216,Unisex,Triple,1,1,0,0,0,0,0,1.43,8550,5700
+134,Female PG Kothrud #134,Kothrud,18.4911,73.80796,Female,Double,1,1,0,0,1,1,1,0.5,13950,9300
+135,Male PG Hadapsar #135,Hadapsar,18.49772,73.93124,Male,Single,1,0,1,1,1,1,1,2.95,17850,11900
+136,Female PG Kothrud #136,Kothrud,18.49785,73.79918,Female,Single,0,1,1,0,0,1,1,1.03,17850,11900
+137,Male PG Viman Nagar #137,Viman Nagar,18.5695,73.90181,Male,Double,1,1,1,0,0,1,0,2.02,13800,9200
+138,Male PG Chinchwad #138,Chinchwad,18.65337,73.80452,Male,Single,1,1,1,1,0,1,1,0.41,23400,11700
+139,Unisex PG Hinjewadi #139,Hinjewadi,18.56682,73.73397,Unisex,Triple,1,0,0,0,0,1,1,2.2,8100,8100
+140,Female PG Kothrud #140,Kothrud,18.51326,73.79395,Female,Single,1,0,0,0,0,1,0,0.48,17700,11800
+141,Female PG Kothrud #141,Kothrud,18.48996,73.80466,Female,Triple,1,0,1,0,1,0,0,1.81,10350,6900
+142,Male PG Wakad #142,Wakad,18.58918,73.75771,Male,Double,1,1,0,0,1,0,0,0.47,9300,9300
+143,Male PG Chinchwad #143,Chinchwad,18.64235,73.80054,Male,Triple,1,1,0,1,1,1,0,2.66,7000,7000
+144,Female PG Kothrud #144,Kothrud,18.50508,73.80929,Female,Double,1,1,1,0,0,0,1,1.4,13950,9300
+145,Male PG Viman Nagar #145,Viman Nagar,18.58561,73.91068,Male,Double,1,0,1,0,0,1,0,1.59,13500,9000
+146,Male PG Akurdi #146,Akurdi,18.64752,73.78382,Male,Double,1,0,1,0,0,1,0,3.83,9150,6100
+147,Male PG Hadapsar #147,Hadapsar,18.48808,73.92764,Male,Double,1,0,0,0,1,1,0,0.47,7800,7800
+148,Male PG Akurdi #148,Akurdi,18.65288,73.78643,Male,Triple,1,1,1,1,0,1,0,2.05,11400,7600
+149,Female PG Wakad #149,Wakad,18.60346,73.75606,Female,Double,1,1,0,0,1,1,1,5.13,12600,8400
+150,Female PG Chinchwad #150,Chinchwad,18.64323,73.79696,Female,Triple,0,1,1,0,0,1,0,1.66,9150,6100
+151,Male PG Hadapsar #151,Hadapsar,18.49967,73.92727,Male,Double,1,1,1,0,0,1,1,2.19,8500,8500
+152,Female PG Hinjewadi #152,Hinjewadi,18.59817,73.73246,Female,Triple,1,1,0,0,0,0,0,1.81,15800,7900
+153,Female PG Wakad #153,Wakad,18.60192,73.76397,Female,Triple,1,0,1,0,0,0,0,0.74,7100,7100
+154,Male PG Kothrud #154,Kothrud,18.50718,73.80925,Male,Double,1,0,1,0,0,1,0,0.73,13650,9100
+155,Male PG Viman Nagar #155,Viman Nagar,18.57045,73.92437,Male,Double,1,1,0,0,0,0,1,2.0,15600,10400
+156,Male PG Akurdi #156,Akurdi,18.64083,73.7625,Male,Triple,1,0,1,0,0,1,0,1.62,5500,5500
+157,Male PG Akurdi #157,Akurdi,18.65244,73.78108,Male,Single,1,0,1,1,1,0,0,3.26,20600,10300
+158,Unisex PG Hadapsar #158,Hadapsar,18.51372,73.92301,Unisex,Triple,1,1,1,0,1,0,1,2.28,7400,7400
+159,Male PG Pimpri #159,Pimpri,18.61991,73.80119,Male,Double,0,0,0,1,1,1,0,2.57,10650,7100
+160,Male PG Kothrud #160,Kothrud,18.50375,73.8112,Male,Single,1,1,1,0,0,1,0,3.0,17100,11400
+161,Female PG Akurdi #161,Akurdi,18.64834,73.76495,Female,Double,0,1,1,0,1,0,0,0.92,6000,6000
+162,Female PG Wakad #162,Wakad,18.59141,73.75165,Female,Triple,1,1,1,0,0,1,1,0.24,18600,9300
+163,Male PG Wakad #163,Wakad,18.59836,73.76933,Male,Triple,1,0,0,0,1,1,1,0.6,14200,7100
+164,Male PG Hadapsar #164,Hadapsar,18.51001,73.92444,Male,Triple,1,1,1,0,0,1,0,1.55,12400,6200
+165,Male PG Viman Nagar #165,Viman Nagar,18.55768,73.92939,Male,Double,1,1,0,1,1,1,1,1.85,14850,9900
+166,Female PG Chinchwad #166,Chinchwad,18.64837,73.80883,Female,Double,1,0,1,0,0,0,1,2.87,8550,5700
+167,Female PG Hinjewadi #167,Hinjewadi,18.59415,73.73495,Female,Double,1,0,0,1,1,1,0,2.02,19000,9500
+168,Unisex PG Hadapsar #168,Hadapsar,18.52678,73.92384,Unisex,Double,1,0,1,0,0,0,0,1.35,11250,7500
+169,Male PG Akurdi #169,Akurdi,18.64969,73.77083,Male,Double,1,1,1,0,0,1,0,0.62,9300,6200
+170,Unisex PG Pimpri #170,Pimpri,18.62649,73.79537,Unisex,Triple,1,0,1,0,0,1,1,2.67,5300,5300
+171,Female PG Hinjewadi #171,Hinjewadi,18.60376,73.73092,Female,Double,1,0,0,0,1,1,1,3.15,9500,9500
+172,Male PG Wakad #172,Wakad,18.59596,73.74049,Male,Double,1,1,0,1,0,1,1,1.56,17100,11400
+173,Female PG Pimpri #173,Pimpri,18.63688,73.80054,Female,Double,1,0,0,0,1,0,0,0.63,7200,7200
+174,Male PG Wakad #174,Wakad,18.60105,73.75442,Male,Single,1,1,0,1,0,1,0,1.16,26200,13100
+175,Female PG Viman Nagar #175,Viman Nagar,18.57678,73.92515,Female,Double,1,1,0,0,0,1,0,0.74,13500,9000
+176,Male PG Hadapsar #176,Hadapsar,18.50877,73.94058,Male,Double,0,0,0,0,1,1,1,4.23,9600,6400
+177,Female PG Hadapsar #177,Hadapsar,18.50946,73.93057,Female,Double,1,0,0,1,0,0,0,2.89,7900,7900
+178,Female PG Hadapsar #178,Hadapsar,18.50562,73.92672,Female,Double,1,1,0,0,0,1,1,2.35,11100,7400
+179,Male PG Hadapsar #179,Hadapsar,18.5142,73.92613,Male,Double,1,1,0,1,1,1,1,1.17,16050,10700
+180,Unisex PG Akurdi #180,Akurdi,18.64934,73.77081,Unisex,Single,0,0,0,0,0,0,1,3.88,15000,7500
+181,Female PG Akurdi #181,Akurdi,18.65633,73.78879,Female,Double,1,1,1,0,0,0,1,2.62,6500,6500
+182,Male PG Pimpri #182,Pimpri,18.63514,73.79844,Male,Triple,1,1,1,0,1,0,0,3.53,9000,6000
+183,Female PG Wakad #183,Wakad,18.59709,73.7456,Female,Single,0,1,0,0,0,1,0,1.44,11800,11800
+184,Male PG Akurdi #184,Akurdi,18.64068,73.75812,Male,Single,1,1,1,0,0,0,0,1.49,9900,9900
+185,Unisex PG Akurdi #185,Akurdi,18.63417,73.77023,Unisex,Triple,1,0,1,0,1,1,0,0.78,8700,5800
+186,Female PG Hadapsar #186,Hadapsar,18.51797,73.91847,Female,Double,1,1,1,0,0,0,0,3.29,16600,8300
+187,Male PG Chinchwad #187,Chinchwad,18.65493,73.81068,Male,Double,1,1,1,0,0,0,0,0.72,10050,6700
+188,Female PG Wakad #188,Wakad,18.60256,73.7657,Female,Triple,1,0,1,0,0,0,0,0.7,8300,8300
+189,Unisex PG Wakad #189,Wakad,18.59086,73.75843,Unisex,Double,1,1,1,1,0,1,1,3.11,19600,9800
+190,Male PG Hinjewadi #190,Hinjewadi,18.58572,73.73344,Male,Double,1,1,1,0,0,1,0,0.77,10300,10300
+191,Female PG Hinjewadi #191,Hinjewadi,18.60032,73.74856,Female,Single,1,0,1,0,1,1,0,1.63,22400,11200
+192,Female PG Hinjewadi #192,Hinjewadi,18.59353,73.75804,Female,Double,1,1,1,0,0,1,0,3.67,8300,8300
+193,Male PG Pimpri #193,Pimpri,18.6223,73.79812,Male,Double,0,1,0,0,1,1,0,2.24,6300,6300
+194,Male PG Akurdi #194,Akurdi,18.65052,73.78363,Male,Triple,1,0,1,0,0,1,1,2.28,10600,5300
+195,Female PG Pimpri #195,Pimpri,18.61262,73.79066,Female,Single,1,0,1,0,1,1,0,1.41,15450,10300
+196,Female PG Pimpri #196,Pimpri,18.63739,73.80259,Female,Triple,0,0,0,0,0,0,1,0.37,6200,6200
+197,Unisex PG Pimpri #197,Pimpri,18.6292,73.80921,Unisex,Triple,1,0,0,1,0,1,0,1.78,13600,6800
+198,Male PG Viman Nagar #198,Viman Nagar,18.55748,73.92812,Male,Double,1,0,0,0,0,1,0,0.22,8600,8600
+199,Male PG Pimpri #199,Pimpri,18.63718,73.80927,Male,Double,1,0,0,0,1,1,1,0.83,12000,8000
+200,Female PG Hadapsar #200,Hadapsar,18.5149,73.93298,Female,Single,1,1,1,0,1,1,0,2.47,10600,10600
+201,Female PG Hadapsar #201,Hadapsar,18.50695,73.92469,Female,Triple,1,1,0,0,1,1,0,2.86,13200,6600
+202,Male PG Wakad #202,Wakad,18.59889,73.75955,Male,Double,1,1,1,1,1,1,1,2.16,10800,10800
+203,Male PG Akurdi #203,Akurdi,18.64245,73.76902,Male,Triple,1,0,0,0,0,1,0,1.39,7800,5200
+204,Female PG Viman Nagar #204,Viman Nagar,18.56454,73.91003,Female,Double,0,1,0,0,1,1,1,0.94,10000,10000
+205,Male PG Hinjewadi #205,Hinjewadi,18.60594,73.7543,Male,Single,1,1,0,1,1,0,1,1.71,13300,13300
+206,Male PG Kothrud #206,Kothrud,18.50606,73.81647,Male,Triple,0,1,0,0,0,0,1,3.14,11550,7700
+207,Female PG Hinjewadi #207,Hinjewadi,18.58462,73.7515,Female,Triple,1,1,0,0,0,1,1,3.34,7800,7800
+208,Female PG Hinjewadi #208,Hinjewadi,18.59172,73.74348,Female,Single,1,1,0,0,0,0,0,2.31,11900,11900
+209,Male PG Viman Nagar #209,Viman Nagar,18.57392,73.92343,Male,Double,1,1,0,1,0,1,1,2.07,18000,12000
+210,Female PG Kothrud #210,Kothrud,18.5021,73.79802,Female,Single,1,0,0,0,1,1,1,0.93,23000,11500
+211,Female PG Kothrud #211,Kothrud,18.49781,73.81205,Female,Double,1,1,0,1,0,0,1,3.07,15900,10600
+212,Female PG Kothrud #212,Kothrud,18.49722,73.80254,Female,Triple,1,1,1,0,1,1,1,0.83,18400,9200
+213,Female PG Hadapsar #213,Hadapsar,18.49476,73.93737,Female,Double,1,1,0,1,0,1,0,0.79,15400,7700
+214,Male PG Wakad #214,Wakad,18.58944,73.76604,Male,Double,1,0,1,0,0,0,1,2.57,17800,8900
+215,Female PG Wakad #215,Wakad,18.59291,73.76023,Female,Double,1,1,1,1,1,0,0,1.67,10400,10400
+216,Female PG Wakad #216,Wakad,18.5978,73.75512,Female,Triple,1,1,1,0,0,0,0,2.08,6800,6800
+217,Male PG Viman Nagar #217,Viman Nagar,18.57303,73.92732,Male,Triple,1,0,0,0,0,1,1,1.97,9000,9000
+218,Male PG Chinchwad #218,Chinchwad,18.64268,73.796,Male,Double,1,1,0,0,1,0,0,4.06,10800,5400
+219,Male PG Pimpri #219,Pimpri,18.63093,73.78454,Male,Double,1,1,0,0,0,1,1,0.94,12600,8400
+220,Male PG Wakad #220,Wakad,18.60337,73.75016,Male,Double,1,1,1,1,0,1,0,2.03,20000,10000
+221,Unisex PG Kothrud #221,Kothrud,18.50441,73.81158,Unisex,Single,1,1,0,0,0,0,1,1.11,18300,12200
+222,Male PG Hadapsar #222,Hadapsar,18.50637,73.93543,Male,Double,1,1,0,1,0,0,0,1.13,8700,8700
+223,Male PG Hinjewadi #223,Hinjewadi,18.59737,73.74904,Male,Triple,1,1,1,1,0,1,0,1.95,16800,8400
+224,Female PG Akurdi #224,Akurdi,18.64036,73.77233,Female,Single,1,1,1,0,1,1,0,2.59,8700,8700
+225,Female PG Pimpri #225,Pimpri,18.62372,73.80715,Female,Double,1,1,1,0,0,0,0,2.41,12800,6400
+226,Female PG Kothrud #226,Kothrud,18.51339,73.80237,Female,Single,0,1,1,1,1,1,0,2.64,19950,13300
+227,Female PG Hinjewadi #227,Hinjewadi,18.59416,73.74425,Female,Double,1,1,0,1,1,0,0,2.2,9800,9800
+228,Male PG Viman Nagar #228,Viman Nagar,18.56994,73.91112,Male,Single,1,1,1,0,0,1,1,5.34,17700,11800
+229,Female PG Viman Nagar #229,Viman Nagar,18.56579,73.90264,Female,Triple,1,1,0,0,1,0,0,0.77,10300,10300
+230,Unisex PG Hinjewadi #230,Hinjewadi,18.59671,73.74671,Unisex,Single,1,1,1,0,0,0,1,0.27,12900,12900
+231,Unisex PG Hinjewadi #231,Hinjewadi,18.58026,73.73105,Unisex,Double,1,1,1,1,0,1,1,2.38,22600,11300
+232,Male PG Akurdi #232,Akurdi,18.64425,73.76651,Male,Double,1,1,0,0,1,0,0,1.45,7300,7300
+233,Male PG Chinchwad #233,Chinchwad,18.6366,73.80784,Male,Double,1,0,1,0,1,1,0,1.63,10800,7200
+234,Female PG Wakad #234,Wakad,18.5983,73.76492,Female,Triple,1,1,0,0,0,1,1,0.99,10950,7300
+235,Female PG Hadapsar #235,Hadapsar,18.50208,73.92808,Female,Single,1,0,0,0,0,1,1,0.32,11000,11000
+236,Female PG Akurdi #236,Akurdi,18.65034,73.76592,Female,Double,1,0,0,0,0,1,1,2.86,6000,6000
+237,Female PG Wakad #237,Wakad,18.59225,73.76865,Female,Double,0,1,0,0,0,1,1,1.65,12600,8400
+238,Male PG Hadapsar #238,Hadapsar,18.51934,73.92008,Male,Double,1,1,1,0,0,1,0,2.62,14600,7300
+239,Male PG Akurdi #239,Akurdi,18.64711,73.76757,Male,Double,1,0,0,1,0,0,1,2.44,11850,7900
+240,Male PG Hinjewadi #240,Hinjewadi,18.59638,73.73751,Male,Triple,0,1,0,0,0,1,0,1.17,7200,7200
+241,Unisex PG Hadapsar #241,Hadapsar,18.51117,73.93068,Unisex,Double,1,0,0,1,1,0,0,2.63,8800,8800
+242,Female PG Pimpri #242,Pimpri,18.61488,73.79811,Female,Triple,1,1,1,0,1,1,1,2.29,12200,6100
+243,Female PG Kothrud #243,Kothrud,18.50095,73.80494,Female,Triple,1,0,1,1,0,1,0,2.2,9400,9400
+244,Male PG Hadapsar #244,Hadapsar,18.50914,73.92373,Male,Double,1,1,1,1,0,1,1,2.28,18000,9000
+245,Male PG Pimpri #245,Pimpri,18.62971,73.8035,Male,Triple,1,0,0,1,1,0,0,0.54,13800,6900
+246,Male PG Akurdi #246,Akurdi,18.65227,73.77591,Male,Triple,1,0,0,0,1,1,0,0.75,6900,4600
+247,Female PG Wakad #247,Wakad,18.60275,73.75968,Female,Double,0,0,0,0,0,0,0,2.55,12300,8200
+248,Male PG Hadapsar #248,Hadapsar,18.51741,73.91817,Male,Double,1,0,0,0,0,1,0,1.71,13800,6900
+249,Female PG Kothrud #249,Kothrud,18.50219,73.8085,Female,Triple,1,0,0,0,0,0,0,0.24,11700,7800
+250,Male PG Hinjewadi #250,Hinjewadi,18.57855,73.74453,Male,Triple,1,1,1,1,1,0,0,1.05,14400,9600
+251,Male PG Kothrud #251,Kothrud,18.51133,73.82421,Male,Triple,1,1,1,0,0,0,1,0.28,16200,8100
+252,Female PG Chinchwad #252,Chinchwad,18.6539,73.79985,Female,Triple,1,1,0,0,0,1,0,1.27,5600,5600
+253,Unisex PG Pimpri #253,Pimpri,18.62564,73.80283,Unisex,Single,1,0,1,0,1,0,1,0.25,19200,9600
+254,Female PG Chinchwad #254,Chinchwad,18.64335,73.80328,Female,Double,1,0,0,0,0,0,0,1.89,14200,7100
+255,Female PG Wakad #255,Wakad,18.5989,73.76525,Female,Double,1,1,0,0,0,0,0,2.24,16200,8100
+256,Male PG Wakad #256,Wakad,18.60926,73.76282,Male,Single,1,1,1,0,1,0,0,3.57,21200,10600
+257,Female PG Viman Nagar #257,Viman Nagar,18.58074,73.92269,Female,Triple,1,1,0,0,0,0,0,1.38,7900,7900
+258,Female PG Hinjewadi #258,Hinjewadi,18.59694,73.73981,Female,Double,1,0,1,0,0,1,1,2.4,12450,8300
+259,Male PG Akurdi #259,Akurdi,18.64273,73.75592,Male,Double,0,1,1,0,1,1,1,2.14,10800,7200
+260,Female PG Hadapsar #260,Hadapsar,18.5025,73.92162,Female,Triple,1,1,1,1,0,1,1,0.47,18200,9100
+261,Female PG Viman Nagar #261,Viman Nagar,18.55678,73.92597,Female,Double,1,1,0,1,0,1,1,2.86,25400,12700
+262,Female PG Akurdi #262,Akurdi,18.65713,73.76549,Female,Single,1,1,0,0,1,1,1,0.92,15750,10500
+263,Female PG Pimpri #263,Pimpri,18.63371,73.81042,Female,Double,1,0,0,0,0,0,0,3.17,6300,6300
+264,Female PG Hinjewadi #264,Hinjewadi,18.58901,73.72708,Female,Double,0,1,0,0,0,1,0,1.59,12300,8200
+265,Unisex PG Kothrud #265,Kothrud,18.50014,73.80773,Unisex,Single,1,0,0,0,1,1,0,1.42,18600,12400
+266,Male PG Viman Nagar #266,Viman Nagar,18.57244,73.89884,Male,Double,1,1,1,0,0,1,1,2.29,21000,10500
+267,Male PG Wakad #267,Wakad,18.5891,73.76342,Male,Single,1,0,0,0,0,0,0,0.44,10600,10600
+268,Male PG Akurdi #268,Akurdi,18.6472,73.76397,Male,Triple,1,0,1,0,0,1,0,0.43,7050,4700
+269,Male PG Hinjewadi #269,Hinjewadi,18.58495,73.73201,Male,Double,1,1,0,0,0,0,0,1.52,17400,8700
+270,Male PG Hinjewadi #270,Hinjewadi,18.59346,73.74088,Male,Single,1,0,0,0,0,1,0,1.97,11000,11000
+271,Female PG Pimpri #271,Pimpri,18.61423,73.80595,Female,Double,1,0,0,1,0,1,1,0.6,8300,8300
+272,Male PG Wakad #272,Wakad,18.59721,73.74983,Male,Double,1,1,0,1,0,1,0,1.43,14400,9600
+273,Male PG Kothrud #273,Kothrud,18.50388,73.79695,Male,Double,1,1,1,0,0,1,0,2.81,19000,9500
+274,Male PG Viman Nagar #274,Viman Nagar,18.5825,73.90457,Male,Double,0,1,0,0,0,1,1,0.57,10900,10900
+275,Unisex PG Kothrud #275,Kothrud,18.49896,73.81441,Unisex,Single,1,1,0,0,0,1,0,2.44,15600,10400
+276,Female PG Wakad #276,Wakad,18.59636,73.75579,Female,Single,1,1,0,0,1,1,1,2.18,11600,11600
+277,Female PG Chinchwad #277,Chinchwad,18.64217,73.79765,Female,Double,1,0,0,0,0,1,0,1.62,9300,6200
+278,Male PG Hadapsar #278,Hadapsar,18.50635,73.92464,Male,Double,1,0,1,0,1,1,0,2.39,10800,7200
+279,Male PG Viman Nagar #279,Viman Nagar,18.55707,73.91151,Male,Double,1,1,1,0,0,1,1,2.41,14700,9800
+280,Male PG Chinchwad #280,Chinchwad,18.64814,73.81301,Male,Double,0,1,1,0,0,0,1,0.76,13800,6900
+281,Male PG Pimpri #281,Pimpri,18.63027,73.79699,Male,Double,1,1,1,1,0,1,0,2.08,12000,8000
+282,Male PG Kothrud #282,Kothrud,18.49895,73.81272,Male,Single,1,1,1,0,1,1,0,0.4,11000,11000
+283,Unisex PG Chinchwad #283,Chinchwad,18.63642,73.79138,Unisex,Triple,0,1,1,0,1,1,1,4.64,7050,4700
+284,Male PG Akurdi #284,Akurdi,18.64507,73.76229,Male,Triple,1,1,1,1,1,0,1,2.17,11700,7800
+285,Male PG Akurdi #285,Akurdi,18.64927,73.7807,Male,Double,1,0,1,1,1,0,0,3.02,11550,7700
+286,Male PG Kothrud #286,Kothrud,18.50696,73.80738,Male,Double,1,1,1,0,1,0,1,3.27,16800,8400
+287,Male PG Kothrud #287,Kothrud,18.51812,73.81184,Male,Double,1,1,1,0,0,0,0,0.71,20600,10300
+288,Female PG Akurdi #288,Akurdi,18.64997,73.7736,Female,Double,0,0,1,0,1,0,1,3.74,11400,5700
+289,Male PG Wakad #289,Wakad,18.59154,73.76227,Male,Double,1,1,0,0,1,1,1,2.23,14550,9700
+290,Female PG Hadapsar #290,Hadapsar,18.52681,73.93744,Female,Double,1,1,1,0,0,1,1,2.77,16600,8300
+291,Female PG Hinjewadi #291,Hinjewadi,18.59894,73.73633,Female,Double,1,1,0,1,0,0,0,1.56,22200,11100
+292,Male PG Hinjewadi #292,Hinjewadi,18.58751,73.7436,Male,Triple,1,0,1,0,0,0,0,1.94,9450,6300
+293,Unisex PG Viman Nagar #293,Viman Nagar,18.56671,73.91298,Unisex,Triple,1,0,1,0,0,1,0,0.43,11700,7800
+294,Male PG Pimpri #294,Pimpri,18.63361,73.80561,Male,Single,1,1,1,0,0,1,1,1.24,16500,11000
+295,Male PG Pimpri #295,Pimpri,18.62664,73.79962,Male,Triple,1,1,0,0,0,1,0,1.36,5800,5800
+296,Female PG Kothrud #296,Kothrud,18.50724,73.80115,Female,Triple,0,1,0,0,0,0,0,1.26,12300,8200
+297,Female PG Akurdi #297,Akurdi,18.64584,73.77562,Female,Triple,1,1,1,0,1,0,0,2.68,8550,5700
+298,Male PG Pimpri #298,Pimpri,18.63228,73.79443,Male,Single,1,0,1,0,0,0,1,2.37,18200,9100
+299,Male PG Chinchwad #299,Chinchwad,18.64237,73.79799,Male,Double,1,1,0,1,0,0,1,1.59,14100,9400
+300,Male PG Hinjewadi #300,Hinjewadi,18.61883,73.74118,Male,Double,1,1,0,1,0,0,1,2.07,20800,10400
+301,Male PG Kothrud #301,Kothrud,18.50292,73.81059,Male,Triple,1,0,1,0,1,1,0,0.69,15200,7600
+302,Male PG Pimpri #302,Pimpri,18.63193,73.80939,Male,Single,1,0,1,0,0,1,0,0.47,19000,9500
+303,Unisex PG Hinjewadi #303,Hinjewadi,18.59183,73.72756,Unisex,Triple,1,0,0,1,1,1,0,0.76,19200,9600
+304,Female PG Chinchwad #304,Chinchwad,18.63805,73.80197,Female,Single,1,0,1,0,0,1,1,0.5,15900,10600
+305,Female PG Chinchwad #305,Chinchwad,18.64205,73.79997,Female,Double,1,1,0,0,0,1,1,2.77,11700,7800
+306,Male PG Pimpri #306,Pimpri,18.65407,73.79136,Male,Triple,1,1,0,0,0,0,1,3.65,9150,6100
+307,Male PG Viman Nagar #307,Viman Nagar,18.56953,73.91611,Male,Double,1,0,0,1,0,1,0,3.18,10500,10500
+308,Male PG Viman Nagar #308,Viman Nagar,18.56288,73.92603,Male,Triple,1,1,1,0,0,0,0,1.96,13200,8800
+309,Female PG Kothrud #309,Kothrud,18.50367,73.81464,Female,Single,1,0,1,0,0,1,0,2.05,17850,11900
+310,Male PG Viman Nagar #310,Viman Nagar,18.57403,73.91238,Male,Single,1,1,0,1,0,1,0,2.17,19800,13200
+311,Male PG Viman Nagar #311,Viman Nagar,18.56437,73.90171,Male,Double,1,0,1,1,0,1,1,1.54,11600,11600
+312,Female PG Hinjewadi #312,Hinjewadi,18.59128,73.7389,Female,Single,1,0,0,0,1,1,0,0.83,16050,10700
+313,Male PG Viman Nagar #313,Viman Nagar,18.56356,73.90672,Male,Double,1,1,1,0,0,1,1,1.64,10800,10800
+314,Male PG Chinchwad #314,Chinchwad,18.63526,73.81193,Male,Double,1,1,1,1,1,0,0,0.83,10000,10000
+315,Male PG Wakad #315,Wakad,18.60167,73.75285,Male,Double,1,1,0,0,1,1,1,1.12,8900,8900
+316,Female PG Hinjewadi #316,Hinjewadi,18.60684,73.74172,Female,Double,1,1,1,0,1,0,0,1.26,18000,9000
+317,Female PG Viman Nagar #317,Viman Nagar,18.58207,73.92131,Female,Single,0,1,0,0,0,1,0,0.99,11300,11300
+318,Female PG Wakad #318,Wakad,18.60369,73.74697,Female,Double,1,1,0,0,0,1,1,1.24,17600,8800
+319,Male PG Kothrud #319,Kothrud,18.50368,73.80222,Male,Double,1,1,0,0,1,1,0,0.22,9600,9600
+320,Male PG Viman Nagar #320,Viman Nagar,18.56097,73.92419,Male,Triple,1,1,0,1,1,1,0,0.8,10200,10200
+321,Female PG Hinjewadi #321,Hinjewadi,18.57925,73.73847,Female,Triple,1,1,0,0,1,1,0,0.37,12000,8000
+322,Female PG Pimpri #322,Pimpri,18.6276,73.79274,Female,Double,1,1,1,1,0,1,1,2.1,8000,8000
+323,Female PG Wakad #323,Wakad,18.59383,73.75786,Female,Single,1,0,1,0,0,0,1,2.41,12200,12200
+324,Female PG Hadapsar #324,Hadapsar,18.51128,73.92,Female,Single,1,1,0,0,1,0,1,4.61,18800,9400
+325,Male PG Hadapsar #325,Hadapsar,18.50937,73.92087,Male,Double,1,0,0,0,0,0,0,2.22,6800,6800
+326,Male PG Viman Nagar #326,Viman Nagar,18.56982,73.9103,Male,Triple,1,0,1,1,1,1,0,1.13,12900,8600
+327,Male PG Kothrud #327,Kothrud,18.51758,73.80171,Male,Triple,1,0,0,0,0,1,1,1.39,7800,7800
+328,Unisex PG Kothrud #328,Kothrud,18.51571,73.7982,Unisex,Double,1,0,1,0,0,1,1,1.53,14100,9400
+329,Male PG Hinjewadi #329,Hinjewadi,18.58235,73.74442,Male,Double,1,0,1,1,1,1,0,0.6,10600,10600
+330,Male PG Chinchwad #330,Chinchwad,18.63938,73.79419,Male,Double,1,0,1,1,0,0,0,0.72,8800,8800
+331,Male PG Viman Nagar #331,Viman Nagar,18.56608,73.91831,Male,Double,1,1,0,0,0,1,1,0.82,21000,10500
+332,Male PG Kothrud #332,Kothrud,18.5109,73.81606,Male,Single,1,0,0,1,0,0,0,0.31,12900,12900
+333,Male PG Viman Nagar #333,Viman Nagar,18.57991,73.90065,Male,Double,1,0,1,0,0,1,0,2.26,18800,9400
+334,Male PG Hadapsar #334,Hadapsar,18.51834,73.94112,Male,Single,1,1,1,0,0,1,0,1.27,16050,10700
+335,Male PG Wakad #335,Wakad,18.59542,73.75467,Male,Double,1,1,1,0,1,1,0,1.82,15000,10000
+336,Male PG Wakad #336,Wakad,18.59448,73.7663,Male,Double,0,0,0,1,1,0,1,3.91,18600,9300
+337,Female PG Chinchwad #337,Chinchwad,18.65696,73.79479,Female,Double,0,1,1,0,0,1,0,1.13,6700,6700
+338,Female PG Hadapsar #338,Hadapsar,18.51006,73.92533,Female,Double,0,1,1,0,0,1,1,2.21,15400,7700
+339,Male PG Pimpri #339,Pimpri,18.64272,73.7946,Male,Single,1,1,1,0,1,0,0,3.27,15000,10000
+340,Female PG Kothrud #340,Kothrud,18.50821,73.80271,Female,Single,1,1,1,0,1,1,1,0.39,27800,13900
+341,Male PG Chinchwad #341,Chinchwad,18.64769,73.80543,Male,Single,1,0,1,0,0,1,0,0.81,9200,9200
+342,Female PG Pimpri #342,Pimpri,18.63231,73.80431,Female,Double,1,1,0,0,0,0,0,1.28,6500,6500
+343,Male PG Viman Nagar #343,Viman Nagar,18.56505,73.91628,Male,Double,1,0,1,0,1,1,1,0.61,20400,10200
+344,Male PG Kothrud #344,Kothrud,18.5146,73.81421,Male,Double,1,0,1,0,1,0,0,1.7,12600,8400
+345,Male PG Kothrud #345,Kothrud,18.5094,73.81174,Male,Single,1,0,1,0,0,1,1,0.8,18750,12500
+346,Female PG Hinjewadi #346,Hinjewadi,18.59414,73.73099,Female,Double,1,1,1,0,0,1,1,3.63,9800,9800
+347,Female PG Chinchwad #347,Chinchwad,18.64423,73.79995,Female,Single,1,0,1,0,0,1,0,0.68,17000,8500
+348,Male PG Kothrud #348,Kothrud,18.51326,73.80693,Male,Double,1,0,0,0,0,1,0,0.77,13600,6800
+349,Female PG Hadapsar #349,Hadapsar,18.5052,73.91537,Female,Double,1,0,0,0,0,1,1,1.68,16200,8100
+350,Male PG Kothrud #350,Kothrud,18.51204,73.79668,Male,Triple,1,0,0,0,0,1,1,3.96,10650,7100
+351,Unisex PG Wakad #351,Wakad,18.5901,73.75351,Unisex,Double,1,0,0,0,0,0,1,0.28,7300,7300
+352,Male PG Hadapsar #352,Hadapsar,18.51612,73.93104,Male,Triple,1,0,1,1,0,1,1,1.65,8600,8600
+353,Male PG Hinjewadi #353,Hinjewadi,18.57843,73.74366,Male,Double,1,0,0,0,0,1,0,1.07,12300,8200
+354,Male PG Viman Nagar #354,Viman Nagar,18.55957,73.91075,Male,Double,1,1,0,1,1,0,0,0.32,10800,10800
+355,Female PG Hadapsar #355,Hadapsar,18.50753,73.93543,Female,Double,1,0,0,1,1,1,0,1.97,14400,9600
+356,Female PG Hinjewadi #356,Hinjewadi,18.59141,73.74036,Female,Double,1,1,0,0,0,1,0,1.2,13350,8900
+357,Male PG Akurdi #357,Akurdi,18.63377,73.77069,Male,Double,1,1,1,0,1,1,0,3.14,10200,6800
+358,Male PG Hadapsar #358,Hadapsar,18.51437,73.91871,Male,Double,1,1,1,0,1,0,1,3.49,17200,8600
+359,Male PG Viman Nagar #359,Viman Nagar,18.56661,73.92942,Male,Triple,1,1,0,1,1,1,1,1.38,10200,10200
+360,Female PG Pimpri #360,Pimpri,18.63277,73.79367,Female,Double,1,1,1,0,0,1,0,1.8,9150,6100
+361,Male PG Wakad #361,Wakad,18.60671,73.73809,Male,Double,0,1,0,0,0,1,0,1.49,10950,7300
+362,Female PG Pimpri #362,Pimpri,18.63102,73.80311,Female,Double,1,0,0,0,1,0,0,0.43,10650,7100
+363,Female PG Kothrud #363,Kothrud,18.50534,73.8053,Female,Single,1,0,1,0,0,0,1,1.76,22200,11100
+364,Male PG Akurdi #364,Akurdi,18.65041,73.76775,Male,Double,1,1,0,0,1,1,1,0.39,12900,8600
+365,Female PG Viman Nagar #365,Viman Nagar,18.5745,73.89921,Female,Triple,1,1,0,0,0,0,0,1.56,8200,8200
+366,Male PG Hadapsar #366,Hadapsar,18.51191,73.91153,Male,Double,1,1,0,0,1,0,0,1.71,10650,7100
+367,Male PG Hinjewadi #367,Hinjewadi,18.59106,73.73672,Male,Triple,1,0,0,0,1,1,1,0.82,11850,7900
+368,Male PG Wakad #368,Wakad,18.60856,73.75617,Male,Double,1,1,0,1,0,0,0,2.77,13650,9100
+369,Male PG Pimpri #369,Pimpri,18.62613,73.80658,Male,Triple,1,0,0,0,1,1,0,0.93,11400,5700
+370,Male PG Chinchwad #370,Chinchwad,18.66329,73.79212,Male,Single,1,0,0,0,0,1,1,1.4,10000,10000
+371,Male PG Viman Nagar #371,Viman Nagar,18.56602,73.91438,Male,Single,1,1,1,1,1,0,0,2.43,13600,13600
+372,Male PG Kothrud #372,Kothrud,18.51925,73.81154,Male,Single,1,1,1,0,1,1,0,1.6,11800,11800
+373,Male PG Pimpri #373,Pimpri,18.63165,73.79944,Male,Single,1,0,0,0,0,1,1,2.25,13500,9000
+374,Male PG Viman Nagar #374,Viman Nagar,18.57873,73.91959,Male,Single,0,0,1,0,0,0,0,1.6,17100,11400
+375,Unisex PG Kothrud #375,Kothrud,18.4986,73.81583,Unisex,Triple,1,0,1,1,1,0,0,0.86,8200,8200
+376,Female PG Hinjewadi #376,Hinjewadi,18.59056,73.73842,Female,Double,1,0,1,0,1,1,0,0.9,17000,8500
+377,Male PG Pimpri #377,Pimpri,18.63246,73.8122,Male,Double,1,1,1,0,0,1,1,2.31,15800,7900
+378,Female PG Wakad #378,Wakad,18.5908,73.75685,Female,Double,1,1,1,0,0,1,1,1.42,8400,8400
+379,Female PG Wakad #379,Wakad,18.58298,73.77083,Female,Triple,1,0,1,0,1,0,0,2.42,10950,7300
+380,Unisex PG Chinchwad #380,Chinchwad,18.64289,73.79264,Unisex,Double,1,0,0,0,0,1,0,4.15,7950,5300
+381,Female PG Viman Nagar #381,Viman Nagar,18.5705,73.90729,Female,Triple,0,1,0,0,1,1,0,1.42,9000,9000
+382,Male PG Akurdi #382,Akurdi,18.65158,73.77535,Male,Triple,1,1,0,0,1,1,0,2.33,6000,6000
+383,Unisex PG Chinchwad #383,Chinchwad,18.64579,73.79593,Unisex,Double,1,1,1,0,1,0,1,0.91,10200,6800
+384,Male PG Pimpri #384,Pimpri,18.63174,73.79372,Male,Triple,1,1,0,0,0,1,1,2.81,10800,7200
+385,Male PG Wakad #385,Wakad,18.6109,73.77443,Male,Double,1,0,1,0,0,0,0,2.89,8300,8300
+386,Female PG Viman Nagar #386,Viman Nagar,18.55245,73.91633,Female,Double,1,0,1,0,1,1,0,2.61,15000,10000
+387,Female PG Chinchwad #387,Chinchwad,18.64723,73.8132,Female,Double,1,1,0,0,1,0,0,2.17,14000,7000
+388,Male PG Kothrud #388,Kothrud,18.49791,73.81917,Male,Single,1,1,0,0,1,1,1,1.6,23800,11900
+389,Male PG Hadapsar #389,Hadapsar,18.50783,73.92199,Male,Single,1,1,0,1,1,1,1,1.63,24000,12000
+390,Male PG Kothrud #390,Kothrud,18.50241,73.80831,Male,Triple,1,1,1,0,1,0,1,2.07,12900,8600
+391,Female PG Hinjewadi #391,Hinjewadi,18.60037,73.72889,Female,Double,1,1,1,0,0,1,0,2.16,9900,9900
+392,Male PG Hinjewadi #392,Hinjewadi,18.5771,73.74841,Male,Single,1,1,1,0,0,1,0,2.22,12200,12200
+393,Female PG Viman Nagar #393,Viman Nagar,18.56362,73.92172,Female,Double,1,1,0,0,1,0,0,2.63,15300,10200
+394,Female PG Pimpri #394,Pimpri,18.62242,73.80169,Female,Double,1,1,1,0,1,0,0,2.56,13600,6800
+395,Male PG Akurdi #395,Akurdi,18.64755,73.76046,Male,Double,1,0,1,0,1,1,0,2.09,13400,6700
+396,Unisex PG Viman Nagar #396,Viman Nagar,18.5621,73.91886,Unisex,Single,1,0,0,0,0,1,0,3.81,10300,10300
+397,Male PG Hinjewadi #397,Hinjewadi,18.59417,73.7463,Male,Double,1,1,1,0,0,0,0,2.67,14400,9600
+398,Female PG Akurdi #398,Akurdi,18.64773,73.78244,Female,Triple,1,1,0,0,0,1,0,2.5,9800,4900
+399,Female PG Chinchwad #399,Chinchwad,18.63999,73.80442,Female,Triple,1,1,1,0,0,1,0,2.64,9000,6000
+400,Male PG Chinchwad #400,Chinchwad,18.64802,73.7998,Male,Single,1,1,0,0,0,1,0,1.91,14400,9600
+401,Female PG Akurdi #401,Akurdi,18.64115,73.77789,Female,Double,1,1,1,0,0,1,1,2.51,11400,7600
+402,Male PG Chinchwad #402,Chinchwad,18.63765,73.78202,Male,Triple,1,1,1,1,0,1,0,2.13,6700,6700
+403,Female PG Kothrud #403,Kothrud,18.51315,73.80644,Female,Double,0,1,0,0,0,0,1,2.1,12750,8500
+404,Female PG Viman Nagar #404,Viman Nagar,18.55731,73.90811,Female,Single,0,1,1,0,0,0,1,4.69,12000,12000
+405,Male PG Akurdi #405,Akurdi,18.6438,73.76433,Male,Single,1,1,1,0,0,1,0,1.6,19200,9600
+406,Female PG Kothrud #406,Kothrud,18.50876,73.81518,Female,Single,0,1,1,0,1,1,0,0.51,12200,12200
+407,Male PG Wakad #407,Wakad,18.58871,73.75827,Male,Double,0,0,0,1,0,0,0,2.15,17400,8700
+408,Female PG Viman Nagar #408,Viman Nagar,18.57168,73.93458,Female,Triple,1,1,0,0,0,1,1,1.58,17800,8900
+409,Male PG Chinchwad #409,Chinchwad,18.65696,73.77752,Male,Double,1,1,0,0,0,1,0,4.0,5100,5100
+410,Male PG Viman Nagar #410,Viman Nagar,18.552,73.90218,Male,Triple,1,1,1,0,0,0,1,3.8,18400,9200
+411,Female PG Hinjewadi #411,Hinjewadi,18.59255,73.74193,Female,Triple,1,0,1,0,0,1,1,1.3,7900,7900
+412,Male PG Hinjewadi #412,Hinjewadi,18.58877,73.73627,Male,Double,1,0,0,0,0,0,0,2.16,11850,7900
+413,Female PG Kothrud #413,Kothrud,18.51837,73.81251,Female,Triple,1,1,1,0,0,0,0,0.78,18400,9200
+414,Female PG Wakad #414,Wakad,18.60796,73.76479,Female,Double,1,0,1,0,0,1,1,0.92,17200,8600
+415,Male PG Akurdi #415,Akurdi,18.64567,73.77104,Male,Double,1,1,0,0,1,1,0,4.78,7650,5100
+416,Female PG Wakad #416,Wakad,18.58812,73.74274,Female,Triple,1,1,1,0,1,0,0,1.05,8400,8400
+417,Female PG Pimpri #417,Pimpri,18.63313,73.80507,Female,Single,1,1,1,1,0,0,1,3.06,11700,11700
+418,Male PG Wakad #418,Wakad,18.59729,73.76257,Male,Triple,1,1,1,0,1,0,0,1.99,13800,6900
+419,Female PG Akurdi #419,Akurdi,18.65228,73.77067,Female,Triple,1,0,1,1,0,1,0,1.88,7300,7300
+420,Female PG Kothrud #420,Kothrud,18.52155,73.81199,Female,Single,1,1,0,0,0,0,1,1.08,24000,12000
+421,Female PG Akurdi #421,Akurdi,18.6414,73.77438,Female,Single,1,0,1,0,1,1,1,1.4,14550,9700
+422,Female PG Kothrud #422,Kothrud,18.51198,73.81477,Female,Triple,1,1,0,1,1,1,0,3.97,13950,9300
+423,Male PG Hinjewadi #423,Hinjewadi,18.59892,73.75913,Male,Single,1,1,1,0,1,1,1,0.97,19200,12800
+424,Female PG Pimpri #424,Pimpri,18.62324,73.79866,Female,Double,1,1,1,0,0,0,1,1.66,13800,6900
+425,Female PG Hadapsar #425,Hadapsar,18.50217,73.9238,Female,Double,1,0,1,1,0,0,0,2.48,11400,7600
+426,Female PG Hadapsar #426,Hadapsar,18.5066,73.9366,Female,Double,1,0,0,0,1,1,1,0.97,10350,6900
+427,Female PG Wakad #427,Wakad,18.60786,73.7571,Female,Triple,1,1,0,1,1,1,0,3.24,18400,9200
+428,Female PG Kothrud #428,Kothrud,18.50761,73.80597,Female,Triple,0,1,1,0,1,1,0,4.1,8200,8200
+429,Male PG Chinchwad #429,Chinchwad,18.64522,73.79278,Male,Double,1,1,0,0,0,1,1,3.76,6700,6700
+430,Male PG Chinchwad #430,Chinchwad,18.64286,73.81336,Male,Triple,1,1,1,0,0,0,0,2.24,8250,5500
+431,Male PG Hadapsar #431,Hadapsar,18.49623,73.91671,Male,Double,1,1,0,1,1,1,0,1.41,18600,9300
+432,Male PG Pimpri #432,Pimpri,18.63629,73.82657,Male,Single,1,1,1,0,0,1,1,2.71,19200,9600
+433,Male PG Chinchwad #433,Chinchwad,18.63358,73.81246,Male,Triple,1,1,0,1,0,1,0,3.19,9900,6600
+434,Female PG Pimpri #434,Pimpri,18.62793,73.79774,Female,Double,1,1,1,0,0,0,1,1.64,8500,8500
+435,Male PG Hinjewadi #435,Hinjewadi,18.59265,73.73493,Male,Double,1,1,1,1,0,1,1,1.51,16200,10800
+436,Male PG Viman Nagar #436,Viman Nagar,18.57481,73.91915,Male,Triple,1,1,1,1,1,0,0,1.97,10100,10100
+437,Female PG Viman Nagar #437,Viman Nagar,18.57611,73.90221,Female,Triple,1,1,1,1,0,1,1,0.66,20600,10300
+438,Female PG Chinchwad #438,Chinchwad,18.62718,73.80247,Female,Triple,1,1,1,0,0,1,1,0.93,10800,7200
+439,Male PG Hinjewadi #439,Hinjewadi,18.58044,73.74511,Male,Double,1,1,0,0,1,0,0,1.63,12000,8000
+440,Male PG Chinchwad #440,Chinchwad,18.63638,73.79783,Male,Single,1,1,0,1,0,0,0,2.47,10200,10200
+441,Female PG Pimpri #441,Pimpri,18.62019,73.79223,Female,Single,1,0,1,0,1,1,0,2.56,8600,8600
+442,Male PG Hadapsar #442,Hadapsar,18.50009,73.91742,Male,Double,1,1,1,0,0,1,0,1.34,8200,8200
+443,Female PG Pimpri #443,Pimpri,18.62116,73.80889,Female,Double,1,1,0,1,1,0,1,2.92,9400,9400
+444,Male PG Chinchwad #444,Chinchwad,18.64309,73.80087,Male,Triple,1,1,0,0,0,1,0,0.83,8550,5700
+445,Female PG Wakad #445,Wakad,18.58719,73.76625,Female,Double,1,0,1,1,0,1,0,1.38,19000,9500
+446,Male PG Kothrud #446,Kothrud,18.50631,73.81928,Male,Triple,1,1,1,1,0,1,0,0.43,13050,8700
+447,Unisex PG Hadapsar #447,Hadapsar,18.49946,73.92437,Unisex,Triple,1,0,0,0,1,0,1,0.93,12000,6000
+448,Female PG Wakad #448,Wakad,18.60416,73.73866,Female,Double,1,0,0,1,0,1,0,3.64,18200,9100
+449,Male PG Chinchwad #449,Chinchwad,18.62394,73.79102,Male,Triple,1,1,0,0,0,1,0,0.78,8850,5900
+450,Male PG Viman Nagar #450,Viman Nagar,18.55729,73.91253,Male,Double,1,0,0,0,0,1,1,1.49,15000,10000
+451,Male PG Hinjewadi #451,Hinjewadi,18.5907,73.72585,Male,Triple,1,1,1,0,0,1,1,1.87,16400,8200
+452,Male PG Hadapsar #452,Hadapsar,18.50883,73.92071,Male,Double,1,0,0,1,0,0,1,2.61,12600,8400
+453,Female PG Viman Nagar #453,Viman Nagar,18.56798,73.92122,Female,Triple,1,0,1,0,1,1,0,0.9,12600,8400
+454,Female PG Chinchwad #454,Chinchwad,18.65721,73.80974,Female,Double,1,1,0,0,1,1,1,1.12,8500,8500
+455,Male PG Pimpri #455,Pimpri,18.61898,73.79303,Male,Double,1,0,1,0,0,1,0,0.31,7100,7100
+456,Female PG Hinjewadi #456,Hinjewadi,18.59549,73.76372,Female,Double,1,1,1,0,0,1,0,2.15,11550,7700
+457,Male PG Kothrud #457,Kothrud,18.51726,73.80005,Male,Double,0,1,1,0,0,0,1,2.04,12900,8600
+458,Male PG Akurdi #458,Akurdi,18.66016,73.76536,Male,Double,1,1,0,0,0,0,0,2.88,11600,5800
+459,Female PG Kothrud #459,Kothrud,18.50803,73.8121,Female,Double,1,0,0,0,0,0,0,2.38,8900,8900
+460,Female PG Wakad #460,Wakad,18.59783,73.75652,Female,Double,1,0,0,0,0,1,0,2.04,9200,9200
+461,Female PG Akurdi #461,Akurdi,18.64565,73.76435,Female,Single,1,1,1,0,0,0,1,3.21,18800,9400
+462,Female PG Hadapsar #462,Hadapsar,18.52135,73.92449,Female,Single,1,0,1,1,0,1,0,4.18,20600,10300
+463,Male PG Pimpri #463,Pimpri,18.61987,73.79336,Male,Double,1,1,0,0,1,1,1,1.28,17800,8900
+464,Male PG Hinjewadi #464,Hinjewadi,18.58404,73.74472,Male,Single,1,1,0,0,1,0,0,1.63,16650,11100
+465,Female PG Pimpri #465,Pimpri,18.62587,73.81024,Female,Double,1,0,1,1,0,0,1,1.69,19600,9800
+466,Male PG Pimpri #466,Pimpri,18.62271,73.81496,Male,Triple,1,1,0,0,0,0,0,1.4,5100,5100
+467,Unisex PG Hadapsar #467,Hadapsar,18.51054,73.92561,Unisex,Triple,1,0,0,1,0,1,1,2.47,12000,6000
+468,Female PG Kothrud #468,Kothrud,18.50905,73.81491,Female,Double,0,1,1,0,1,1,1,3.55,19200,9600
+469,Male PG Pimpri #469,Pimpri,18.63961,73.8073,Male,Triple,1,1,0,0,0,1,0,1.69,5600,5600
+470,Male PG Pimpri #470,Pimpri,18.63395,73.80152,Male,Triple,1,1,1,0,0,1,1,2.86,6200,6200
+471,Male PG Kothrud #471,Kothrud,18.49056,73.80335,Male,Triple,1,0,0,0,1,0,1,0.65,12150,8100
+472,Male PG Akurdi #472,Akurdi,18.64424,73.76234,Male,Triple,1,0,0,0,0,1,0,0.78,5600,5600
+473,Female PG Kothrud #473,Kothrud,18.51519,73.80323,Female,Single,1,0,0,0,1,0,1,2.61,22800,11400
+474,Female PG Pimpri #474,Pimpri,18.62965,73.80942,Female,Double,1,1,0,0,0,0,1,0.64,7900,7900
+475,Male PG Wakad #475,Wakad,18.61137,73.7484,Male,Double,0,0,1,0,1,1,0,1.33,13200,8800
+476,Male PG Pimpri #476,Pimpri,18.6414,73.77823,Male,Double,1,1,0,1,1,0,1,1.65,9100,9100
+477,Male PG Wakad #477,Wakad,18.58488,73.76369,Male,Double,1,1,1,1,0,1,1,1.5,21400,10700
+478,Female PG Hinjewadi #478,Hinjewadi,18.59059,73.74358,Female,Triple,1,0,1,0,0,1,0,0.32,10950,7300
+479,Female PG Akurdi #479,Akurdi,18.6479,73.77417,Female,Double,1,0,1,0,0,0,0,2.04,5700,5700
+480,Female PG Hadapsar #480,Hadapsar,18.51068,73.93176,Female,Single,0,0,1,0,0,1,0,1.33,10000,10000
+481,Male PG Hadapsar #481,Hadapsar,18.50864,73.93483,Male,Double,1,1,1,0,0,1,0,2.4,15400,7700
+482,Female PG Kothrud #482,Kothrud,18.51011,73.80484,Female,Triple,1,1,0,0,0,1,0,1.06,15200,7600
+483,Male PG Akurdi #483,Akurdi,18.64285,73.77126,Male,Double,0,0,0,0,0,0,1,1.02,8400,5600
+484,Male PG Wakad #484,Wakad,18.60737,73.74552,Male,Double,1,0,0,0,0,1,0,1.22,7800,7800
+485,Female PG Pimpri #485,Pimpri,18.61843,73.78773,Female,Double,1,0,1,1,1,0,0,1.49,17400,8700
+486,Male PG Chinchwad #486,Chinchwad,18.63102,73.80625,Male,Double,1,1,1,0,0,1,0,1.22,10650,7100
+487,Male PG Chinchwad #487,Chinchwad,18.6524,73.79342,Male,Double,1,0,1,0,0,1,0,1.14,6500,6500
+488,Male PG Wakad #488,Wakad,18.59254,73.75207,Male,Double,1,1,1,0,0,1,1,1.21,14100,9400
+489,Male PG Kothrud #489,Kothrud,18.50569,73.82235,Male,Double,1,0,0,0,1,1,1,1.48,19800,9900
+490,Female PG Hinjewadi #490,Hinjewadi,18.60299,73.73267,Female,Double,1,1,1,0,0,0,0,0.5,16800,8400
+491,Female PG Wakad #491,Wakad,18.6036,73.75949,Female,Triple,1,0,1,0,0,0,0,1.53,12600,6300
+492,Unisex PG Hinjewadi #492,Hinjewadi,18.59082,73.75305,Unisex,Double,1,0,0,0,0,0,0,0.94,18600,9300
+493,Female PG Hadapsar #493,Hadapsar,18.50865,73.91677,Female,Double,1,0,0,0,0,0,0,3.57,10650,7100
+494,Female PG Pimpri #494,Pimpri,18.64327,73.79811,Female,Double,1,0,1,1,0,1,1,0.83,13500,9000
+495,Male PG Kothrud #495,Kothrud,18.50428,73.8105,Male,Double,0,1,1,0,1,0,0,0.79,19800,9900
+496,Female PG Hadapsar #496,Hadapsar,18.51737,73.92818,Female,Double,1,1,1,1,1,0,0,0.49,11100,11100
+497,Female PG Hadapsar #497,Hadapsar,18.50474,73.93707,Female,Triple,0,1,0,0,0,0,1,1.72,13400,6700
+498,Male PG Hinjewadi #498,Hinjewadi,18.6063,73.73876,Male,Triple,0,1,1,1,0,0,0,3.23,9300,9300
+499,Male PG Kothrud #499,Kothrud,18.51125,73.80301,Male,Triple,1,1,1,1,0,1,0,1.79,14250,9500
+500,Unisex PG Wakad #500,Wakad,18.59881,73.76097,Unisex,Double,0,1,1,0,1,0,1,0.65,8900,8900
+501,Female PG Akurdi #501,Akurdi,18.63655,73.77863,Female,Single,1,1,1,0,1,1,0,0.44,19400,9700
+502,Male PG Pimpri #502,Pimpri,18.63398,73.79269,Male,Double,1,0,1,1,0,1,0,2.26,11400,7600
+503,Female PG Hadapsar #503,Hadapsar,18.49847,73.93723,Female,Triple,1,1,1,0,0,0,0,1.2,9750,6500
+504,Male PG Pimpri #504,Pimpri,18.62942,73.81243,Male,Single,1,1,1,0,1,0,0,2.68,9700,9700
+505,Female PG Kothrud #505,Kothrud,18.51347,73.81876,Female,Double,0,1,0,1,0,1,1,3.14,23200,11600
+506,Female PG Hadapsar #506,Hadapsar,18.52268,73.92424,Female,Double,1,1,0,1,0,1,0,1.47,7700,7700
+507,Female PG Hinjewadi #507,Hinjewadi,18.57626,73.74338,Female,Triple,1,0,0,0,0,0,0,1.35,11700,7800
+508,Female PG Hadapsar #508,Hadapsar,18.4992,73.92178,Female,Triple,0,1,1,0,0,1,0,2.59,11600,5800
+509,Female PG Wakad #509,Wakad,18.59714,73.75391,Female,Single,1,0,0,0,1,1,0,0.63,15450,10300
+510,Male PG Wakad #510,Wakad,18.60271,73.75354,Male,Double,1,1,1,1,0,1,1,0.91,23600,11800
+511,Female PG Hinjewadi #511,Hinjewadi,18.58976,73.75234,Female,Triple,1,1,1,1,0,0,0,1.39,9600,9600
+512,Female PG Hinjewadi #512,Hinjewadi,18.5878,73.74003,Female,Triple,1,0,1,0,0,1,1,1.28,13650,9100
+513,Male PG Hinjewadi #513,Hinjewadi,18.60316,73.73911,Male,Single,1,1,0,0,1,1,1,4.83,16200,10800
+514,Female PG Viman Nagar #514,Viman Nagar,18.56497,73.91469,Female,Triple,1,0,0,0,0,0,1,1.97,12900,8600
+515,Female PG Akurdi #515,Akurdi,18.64206,73.76602,Female,Double,1,1,0,0,1,0,0,2.74,12600,6300
+516,Unisex PG Hadapsar #516,Hadapsar,18.51881,73.91536,Unisex,Double,1,0,0,1,1,0,0,1.5,8800,8800
+517,Male PG Chinchwad #517,Chinchwad,18.63285,73.79878,Male,Single,1,0,0,0,1,1,1,3.1,18400,9200
+518,Female PG Hinjewadi #518,Hinjewadi,18.58503,73.73459,Female,Triple,1,0,0,0,0,0,0,1.23,9750,6500
+519,Male PG Viman Nagar #519,Viman Nagar,18.56062,73.92157,Male,Double,1,1,0,0,1,0,0,0.36,10500,10500
+520,Female PG Wakad #520,Wakad,18.6005,73.76201,Female,Triple,1,0,1,0,0,1,0,3.86,10200,6800
+521,Male PG Chinchwad #521,Chinchwad,18.64366,73.79905,Male,Double,0,1,1,0,1,1,0,0.34,12750,8500
+522,Unisex PG Pimpri #522,Pimpri,18.62953,73.80572,Unisex,Single,1,1,1,0,1,1,0,1.17,10400,10400
+523,Male PG Wakad #523,Wakad,18.5907,73.76666,Male,Single,1,0,0,0,0,1,0,1.02,10300,10300
+524,Male PG Wakad #524,Wakad,18.60022,73.75668,Male,Double,1,0,1,1,0,1,1,1.34,14250,9500
+525,Female PG Chinchwad #525,Chinchwad,18.6385,73.80061,Female,Triple,0,1,1,0,0,1,1,2.39,5900,5900
+526,Female PG Pimpri #526,Pimpri,18.6426,73.79858,Female,Double,1,0,0,1,0,0,0,3.7,14600,7300
+527,Male PG Chinchwad #527,Chinchwad,18.63707,73.79889,Male,Single,1,0,1,0,1,1,0,0.54,9300,9300
+528,Male PG Hadapsar #528,Hadapsar,18.50458,73.93093,Male,Double,1,1,0,0,0,0,1,2.37,8000,8000
+529,Male PG Hinjewadi #529,Hinjewadi,18.58362,73.73532,Male,Double,1,0,0,0,0,1,0,0.81,9100,9100
+530,Male PG Hinjewadi #530,Hinjewadi,18.58434,73.74106,Male,Single,1,0,0,1,0,1,0,1.47,25000,12500
+531,Female PG Akurdi #531,Akurdi,18.63308,73.76526,Female,Triple,0,1,0,0,0,1,1,1.17,9000,6000
+532,Male PG Pimpri #532,Pimpri,18.61888,73.81261,Male,Triple,1,0,1,0,0,1,0,1.37,8200,4100
+533,Female PG Kothrud #533,Kothrud,18.51809,73.82127,Female,Double,1,1,0,0,0,0,0,4.07,12300,8200
+534,Male PG Pimpri #534,Pimpri,18.63287,73.81187,Male,Single,1,0,0,0,1,1,1,1.28,15150,10100
+535,Male PG Hinjewadi #535,Hinjewadi,18.60108,73.73857,Male,Triple,1,0,1,0,0,1,1,1.21,11400,7600
+536,Male PG Akurdi #536,Akurdi,18.63262,73.76033,Male,Double,1,0,0,0,1,0,0,0.83,11200,5600
+537,Male PG Pimpri #537,Pimpri,18.62704,73.79494,Male,Triple,1,0,0,0,0,1,1,1.59,5100,5100
+538,Male PG Kothrud #538,Kothrud,18.52984,73.80552,Male,Double,1,1,0,0,0,1,0,0.48,8800,8800
+539,Female PG Hadapsar #539,Hadapsar,18.50655,73.91589,Female,Triple,0,1,0,0,0,0,0,1.43,11200,5600
+540,Male PG Kothrud #540,Kothrud,18.51896,73.81372,Male,Single,0,0,0,0,0,1,0,0.84,23600,11800
+541,Male PG Hinjewadi #541,Hinjewadi,18.59289,73.74888,Male,Triple,1,1,1,0,0,1,0,1.57,8600,8600
+542,Male PG Akurdi #542,Akurdi,18.65041,73.76987,Male,Single,0,1,1,1,0,1,0,0.93,10800,10800
+543,Female PG Hadapsar #543,Hadapsar,18.50385,73.9358,Female,Triple,1,1,1,1,0,0,0,2.15,7500,7500
+544,Male PG Hadapsar #544,Hadapsar,18.5166,73.92432,Male,Triple,1,0,1,0,0,0,1,2.11,9900,6600
+545,Unisex PG Akurdi #545,Akurdi,18.63022,73.76666,Unisex,Triple,0,0,0,0,0,1,0,0.85,5300,5300
+546,Male PG Pimpri #546,Pimpri,18.63558,73.79983,Male,Double,1,1,0,0,0,1,0,2.06,7100,7100
+547,Male PG Pimpri #547,Pimpri,18.63266,73.81465,Male,Double,1,1,0,0,0,1,1,1.15,12000,8000
+548,Male PG Viman Nagar #548,Viman Nagar,18.56468,73.9096,Male,Double,0,1,1,0,0,1,1,0.53,20400,10200
+549,Female PG Chinchwad #549,Chinchwad,18.64304,73.81194,Female,Double,1,0,1,1,0,1,0,2.6,11850,7900
+550,Male PG Pimpri #550,Pimpri,18.6071,73.80603,Male,Double,1,0,1,0,0,1,0,3.22,10050,6700
+551,Male PG Viman Nagar #551,Viman Nagar,18.57683,73.91064,Male,Triple,1,0,1,0,0,0,0,2.5,10050,6700
+552,Male PG Akurdi #552,Akurdi,18.64444,73.7785,Male,Double,0,1,0,0,1,1,1,1.68,12800,6400
+553,Female PG Kothrud #553,Kothrud,18.51684,73.8035,Female,Double,1,1,1,0,0,1,0,1.6,13800,9200
+554,Male PG Hadapsar #554,Hadapsar,18.51137,73.9125,Male,Double,1,0,1,0,1,1,0,0.7,11550,7700
+555,Unisex PG Pimpri #555,Pimpri,18.62507,73.80778,Unisex,Double,1,0,0,0,1,0,1,1.21,10950,7300
+556,Male PG Chinchwad #556,Chinchwad,18.64987,73.7953,Male,Double,1,0,1,0,0,0,1,1.68,13800,6900
+557,Female PG Kothrud #557,Kothrud,18.51481,73.82484,Female,Double,1,1,0,0,0,1,0,1.54,8700,8700
+558,Female PG Kothrud #558,Kothrud,18.5051,73.81196,Female,Triple,1,1,1,0,0,1,1,1.22,16600,8300
+559,Female PG Hadapsar #559,Hadapsar,18.51544,73.93359,Female,Single,1,0,0,0,0,1,1,0.33,10800,10800
+560,Female PG Viman Nagar #560,Viman Nagar,18.56339,73.90706,Female,Double,1,1,0,1,1,1,0,3.81,10100,10100
+561,Unisex PG Akurdi #561,Akurdi,18.65199,73.75457,Unisex,Double,1,0,1,0,0,1,1,0.27,10800,7200
+562,Female PG Hadapsar #562,Hadapsar,18.51753,73.92251,Female,Triple,1,0,1,0,0,0,0,3.51,9800,4900
+563,Male PG Chinchwad #563,Chinchwad,18.63929,73.80119,Male,Double,1,1,1,0,1,1,1,0.26,7500,7500
+564,Unisex PG Hinjewadi #564,Hinjewadi,18.60254,73.7386,Unisex,Double,1,1,0,0,0,0,1,1.01,14400,9600
+565,Male PG Wakad #565,Wakad,18.59828,73.76277,Male,Triple,1,0,0,1,0,1,0,4.76,6700,6700
+566,Female PG Wakad #566,Wakad,18.59752,73.75674,Female,Single,0,0,0,0,0,1,0,1.15,13800,9200
+567,Female PG Viman Nagar #567,Viman Nagar,18.55699,73.92118,Female,Triple,0,1,0,1,0,1,1,1.52,18600,9300
+568,Male PG Hadapsar #568,Hadapsar,18.51264,73.93714,Male,Triple,1,0,0,0,0,0,0,2.48,7200,4800
+569,Female PG Chinchwad #569,Chinchwad,18.64706,73.80412,Female,Double,1,1,0,1,1,0,0,4.18,9100,9100
+570,Female PG Akurdi #570,Akurdi,18.65221,73.77426,Female,Double,1,1,1,1,0,1,0,2.8,17400,8700
+571,Unisex PG Hinjewadi #571,Hinjewadi,18.58239,73.73057,Unisex,Double,1,0,0,0,0,1,0,1.42,17800,8900
+572,Female PG Pimpri #572,Pimpri,18.62784,73.8066,Female,Double,0,0,1,0,0,0,1,1.67,9750,6500
+573,Male PG Pimpri #573,Pimpri,18.61684,73.80587,Male,Double,1,0,1,1,1,0,0,0.96,11550,7700
+574,Unisex PG Viman Nagar #574,Viman Nagar,18.57656,73.91013,Unisex,Triple,1,1,1,0,1,1,0,1.07,9500,9500
+575,Male PG Akurdi #575,Akurdi,18.64222,73.77204,Male,Triple,1,0,0,0,1,1,0,0.38,7500,5000
+576,Male PG Hadapsar #576,Hadapsar,18.5046,73.9129,Male,Triple,0,1,1,0,0,1,0,1.05,15200,7600
+577,Female PG Wakad #577,Wakad,18.59766,73.74844,Female,Double,1,0,0,0,0,1,0,2.59,11550,7700
+578,Male PG Chinchwad #578,Chinchwad,18.65021,73.79812,Male,Double,1,0,0,0,1,0,1,1.53,7100,7100
+579,Female PG Chinchwad #579,Chinchwad,18.64266,73.80497,Female,Triple,1,1,1,0,0,1,1,1.79,10050,6700
+580,Unisex PG Hadapsar #580,Hadapsar,18.50832,73.92545,Unisex,Double,1,1,0,1,0,0,0,2.13,8900,8900
+581,Male PG Hadapsar #581,Hadapsar,18.51089,73.92867,Male,Single,0,1,1,0,0,0,0,0.28,15900,10600
+582,Male PG Kothrud #582,Kothrud,18.50859,73.79789,Male,Double,1,1,0,0,0,1,1,2.19,12600,8400
+583,Female PG Kothrud #583,Kothrud,18.51496,73.81502,Female,Triple,1,1,1,0,0,1,0,0.58,13200,8800
+584,Female PG Chinchwad #584,Chinchwad,18.64101,73.80072,Female,Single,1,0,0,1,1,0,0,2.03,11200,11200
+585,Male PG Hinjewadi #585,Hinjewadi,18.58867,73.73983,Male,Double,0,0,1,0,1,1,1,1.96,18400,9200
+586,Female PG Viman Nagar #586,Viman Nagar,18.57131,73.90562,Female,Triple,1,0,1,0,0,1,1,2.09,16200,8100
+587,Female PG Hinjewadi #587,Hinjewadi,18.58534,73.73098,Female,Single,1,1,1,0,0,1,1,2.44,26800,13400
+588,Male PG Hinjewadi #588,Hinjewadi,18.59673,73.7397,Male,Double,1,1,1,0,0,1,1,2.94,14550,9700
+589,Female PG Wakad #589,Wakad,18.6045,73.76821,Female,Double,1,1,1,0,0,1,0,1.64,15400,7700
+590,Female PG Kothrud #590,Kothrud,18.50942,73.81508,Female,Triple,1,1,1,1,0,0,0,0.32,15450,10300
+591,Female PG Hadapsar #591,Hadapsar,18.51406,73.93119,Female,Triple,1,0,0,0,0,1,0,0.25,5600,5600
+592,Male PG Akurdi #592,Akurdi,18.65115,73.77618,Male,Single,1,1,0,0,0,0,0,1.65,17600,8800
+593,Female PG Kothrud #593,Kothrud,18.52008,73.79845,Female,Triple,1,1,0,0,1,0,1,1.46,16200,8100
+594,Male PG Wakad #594,Wakad,18.5889,73.75454,Male,Triple,1,1,1,0,0,1,0,1.58,11700,7800
+595,Male PG Wakad #595,Wakad,18.6004,73.76481,Male,Double,1,1,1,1,0,0,0,0.42,16050,10700
+596,Male PG Akurdi #596,Akurdi,18.64104,73.78134,Male,Triple,1,1,0,0,0,1,1,0.74,9600,6400
+597,Female PG Akurdi #597,Akurdi,18.6388,73.77779,Female,Triple,1,0,0,0,1,1,0,2.19,4200,4200
+598,Female PG Chinchwad #598,Chinchwad,18.64402,73.80168,Female,Triple,0,1,0,0,1,0,0,1.83,5700,5700
+599,Male PG Viman Nagar #599,Viman Nagar,18.56461,73.91609,Male,Triple,1,0,1,0,1,1,0,3.47,15800,7900
+600,Unisex PG Akurdi #600,Akurdi,18.64167,73.77265,Unisex,Triple,1,1,0,1,1,0,0,1.89,7200,7200
