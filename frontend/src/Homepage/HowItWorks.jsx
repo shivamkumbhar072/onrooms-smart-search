@@ -23,45 +23,47 @@ const HowItWorks = () => {
   ];
 
   return (
-    <section className="mx-auto max-w-7xl px-6 py-20">
+    <section
+      id="how-it-works"
+      className="mx-auto max-w-6xl px-6 py-20"
+    >
       {/* Header */}
-      <div className="mb-12">
-        <span className="text-sm font-semibold tracking-wider text-blue-600">
-          HOW IT WORKS
+      <div className="mb-14 text-center">
+        <span className="text-xs font-semibold uppercase tracking-wider text-blue-600">
+          ✦ How it works
         </span>
 
-        <h2 className="mt-2 text-3xl font-bold tracking-tight text-gray-900">
+        <h2 className="mt-3 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           Find the right PG in 3 simple steps
         </h2>
 
-        <p className="mt-3 max-w-2xl text-gray-500">
+        <p className="mx-auto mt-4 max-w-2xl text-base text-gray-600 sm:text-lg">
           Tell us what you're looking for and let AI find suitable
           accommodation options for you.
         </p>
       </div>
 
       {/* Steps */}
-      <div className="divide-y divide-gray-200 border-y border-gray-200">
+      <div className="grid gap-6 sm:grid-cols-3">
         {steps.map((step) => (
           <div
             key={step.number}
-            className="flex gap-6 py-8 transition hover:bg-gray-50"
+            className="flex flex-col items-center rounded-2xl border border-gray-200 bg-white p-8 text-center transition hover:border-gray-300 hover:shadow-md"
           >
-            {/* Number */}
-            <div className="w-12 shrink-0 text-sm font-semibold text-gray-400">
+            {/* Number badge */}
+            <div className="flex h-12 w-12 items-center justify-center rounded-full border border-gray-200 bg-gray-50 text-sm font-semibold text-gray-700">
               {step.number}
             </div>
 
-            {/* Content */}
-            <div>
-              <h3 className="text-lg font-semibold text-gray-900">
-                {step.title}
-              </h3>
+            {/* Title */}
+            <h3 className="mt-5 text-lg font-semibold text-gray-900">
+              {step.title}
+            </h3>
 
-              <p className="mt-2 max-w-2xl text-sm leading-6 text-gray-500">
-                {step.description}
-              </p>
-            </div>
+            {/* Description */}
+            <p className="mt-3 text-sm leading-6 text-gray-500">
+              {step.description}
+            </p>
           </div>
         ))}
       </div>
