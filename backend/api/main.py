@@ -51,8 +51,6 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://onrooms-smart-search.vercel.app",
-        "https://onrooms-smart-search-p2wj-4uqms2c97-shivamkumbhar072s-projects.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
